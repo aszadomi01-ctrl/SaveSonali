@@ -1,0 +1,9 @@
+{
+  "name": "SaveSonali",
+  "description": "A tech-based solution to reduce food loss in Bangladesh using AI, smart storage tracking, and hyper-local weather integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
